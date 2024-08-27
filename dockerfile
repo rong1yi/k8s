@@ -1,1 +1,1 @@
-FROM node:10.22.1-buster
+FROM golang:1.22
