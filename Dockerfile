@@ -1,1 +1,1 @@
-FROM golang:1.22
+FROM redis:7.0.15-alpine
