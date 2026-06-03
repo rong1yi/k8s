@@ -1,1 +1,1 @@
-FROM redis:7.0.15-alpine
+FROM quay.io/argoproj/workflow-controller:v4.0.5
